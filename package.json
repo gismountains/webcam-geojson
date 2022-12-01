@@ -1,0 +1,23 @@
+{
+    "name": "webcam-geojson",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index-windy.js",
+    "scripts": {
+        "start": "tsc && node build/index-windy.js",
+        "develop": "tsc -w & nodemon -q -w build build/index-windy.js"
+    },
+    "author": "Sascha Brunner",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^18.11.9",
+        "@types/node-fetch": "^2.6.1",
+        "node-fetch": "^2.6.1",
+        "nodemon": "^2.0.20",
+        "ts-node": "^10.9.1",
+        "typescript": "^4.8.4"
+    },
+    "dependencies": {
+        "dotenv": "^16.0.3"
+    }
+}

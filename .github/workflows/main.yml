@@ -1,0 +1,35 @@
+name: Build and Deploy to GitHub Pages
+on:
+    push:
+    schedule:
+      - cron: '30 0 * * *'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Set secrets and Install and Build/Run 🔧
+        run: |
+          touch .env
+          echo WINDYKEY=${{ secrets.WINDYKEY }} >> .env
+          npm install
+          npm start
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: output # The folder the action should deploy.
+          CLEAN: true # Automatically remove deleted files from the deploy branch
