@@ -4342,24 +4342,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1199786294,
-        "title": "Les Paccots",
-        "city": "Les Paccots",
-        "country_code": "CH",
-        "elevation": 1233
-      },
-      "geometry": {
-        "coordinates": [
-          6.948166,
-          46.513361,
-          1233
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1199811153,
         "title": "Altino: La Villa 2",
         "city": "Altino",
@@ -17014,6 +16996,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1292513210,
+        "title": "Erlinsbach: Naturfreundehaus Schafmatt",
+        "city": "Erlinsbach",
+        "country_code": "CH",
+        "elevation": 838
+      },
+      "geometry": {
+        "coordinates": [
+          7.954139,
+          47.417112,
+          838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1292513213,
         "title": "Valbella: Lenzerheide Alp Stätz",
         "city": "Valbella",
@@ -19534,24 +19534,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1299163476,
-        "title": "Kurnbach: Gartenbahn",
-        "city": "Kurnbach",
-        "country_code": "DE",
-        "elevation": 556
-      },
-      "geometry": {
-        "coordinates": [
-          9.678609,
-          47.992586,
-          556
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1299247165,
         "title": "Gerardmer: Vue sur le lac de",
         "city": "Gerardmer",
@@ -21381,6 +21363,24 @@
           10.182937,
           46.967603,
           1585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1318177164,
+        "title": "Wolhusen: Sternwarte Steinhuserberg Webcam 1",
+        "city": "Wolhusen",
+        "country_code": "CH",
+        "elevation": 801
+      },
+      "geometry": {
+        "coordinates": [
+          8.057399,
+          47.041089,
+          801
         ],
         "type": "Point"
       }
@@ -25798,24 +25798,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1352988536,
-        "title": "Saint-Loup-du-Dorat: Bergeries",
-        "city": "Saint-Loup-du-Dorat",
-        "country_code": "FR",
-        "elevation": 1596
-      },
-      "geometry": {
-        "coordinates": [
-          6.604757,
-          44.370435,
-          1596
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1353235460,
         "title": "Weinfelden: Stelzenhof",
         "city": "Weinfelden",
@@ -26835,24 +26817,6 @@
           7.576358,
           44.20155,
           1006
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1358779492,
-        "title": "Ollomont: Vaud",
-        "city": "Ollomont",
-        "country_code": "IT",
-        "elevation": 1509
-      },
-      "geometry": {
-        "coordinates": [
-          7.301316,
-          45.864851,
-          1509
         ],
         "type": "Point"
       }
@@ -32134,6 +32098,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1388433645,
+        "title": "Eberstein",
+        "city": "Eberstein",
+        "country_code": "AT",
+        "elevation": 1593
+      },
+      "geometry": {
+        "coordinates": [
+          14.634008,
+          46.82951,
+          1593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1388433857,
         "title": "Antholz Mittertal - Anterselva di Mezzo: Panoramakamera Biathlon Antholz",
         "city": "Antholz Mittertal - Anterselva di Mezzo",
@@ -32271,24 +32253,6 @@
           7.761001,
           47.342051,
           813
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1388829600,
-        "title": "Saint-Loup-du-Dorat: Front de pistes Pra Loup 1600",
-        "city": "Saint-Loup-du-Dorat",
-        "country_code": "FR",
-        "elevation": 1654
-      },
-      "geometry": {
-        "coordinates": [
-          6.60192,
-          44.368622,
-          1654
         ],
         "type": "Point"
       }
@@ -33916,6 +33880,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1403256438,
+        "title": "Urtijei - St. Ulrich in Groden - Ortisei: Jakoberhof",
+        "city": "Urtijei - St. Ulrich in Groden - Ortisei",
+        "country_code": "IT",
+        "elevation": 1417
+      },
+      "geometry": {
+        "coordinates": [
+          11.691151,
+          46.57061,
+          1417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1403256514,
         "title": "Gemeinde Ehrwald: Wettersteinbahnen Ehrwald",
         "city": "Gemeinde Ehrwald",
@@ -33927,6 +33909,42 @@
           10.940531,
           47.41357,
           1272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1403256525,
+        "title": "Gemeinde Ehrwald: Wettersteinbahnen Ehrwald",
+        "city": "Gemeinde Ehrwald",
+        "country_code": "AT",
+        "elevation": 876
+      },
+      "geometry": {
+        "coordinates": [
+          13.47,
+          47.369999,
+          876
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1403256556,
+        "title": "Kapfenberg: Burg Oberkapfenberg",
+        "city": "Kapfenberg",
+        "country_code": "AT",
+        "elevation": 506
+      },
+      "geometry": {
+        "coordinates": [
+          15.315686,
+          47.45343,
+          506
         ],
         "type": "Point"
       }
@@ -39046,24 +39064,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1445792065,
-        "title": "Auronzo di Cadore › South: Cadini di Misurina",
-        "city": "Auronzo di Cadore",
-        "country_code": "IT",
-        "elevation": 2286
-      },
-      "geometry": {
-        "coordinates": [
-          12.296534,
-          46.610524,
-          2286
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1445793678,
         "title": "Cortina d'Ampezzo › South-West: Tofanaschuss: Pista Stratofana",
         "city": "Cortina d'Ampezzo",
@@ -39640,6 +39640,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1449475570,
+        "title": "Saas-Fee › North: Längflue",
+        "city": "Saas-Fee",
+        "country_code": "CH",
+        "elevation": 2837
+      },
+      "geometry": {
+        "coordinates": [
+          7.895492,
+          46.084947,
+          2837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1449489409,
         "title": "Poppi › South-East: Badia Prataglia - Ristorante \"Il Capanno",
         "city": "Poppi",
@@ -39669,42 +39687,6 @@
           11.621546,
           45.821349,
           1095
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1449701485,
-        "title": "Febbio › South: Mt. Cusna, La Piella, Impianti sciistici di",
-        "city": "Febbio",
-        "country_code": "IT",
-        "elevation": 1157
-      },
-      "geometry": {
-        "coordinates": [
-          10.427725,
-          44.297581,
-          1157
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1449765022,
-        "title": "Sant'Angelo Le Fratte: Falcade - Veneto",
-        "city": "Sant'Angelo Le Fratte",
-        "country_code": "IT",
-        "elevation": 1900
-      },
-      "geometry": {
-        "coordinates": [
-          11.836824,
-          46.35387,
-          1900
         ],
         "type": "Point"
       }
@@ -40900,24 +40882,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1453114401,
-        "title": "Oberwangen: Skilift Oberwangen",
-        "city": "Oberwangen",
-        "country_code": "CH",
-        "elevation": 640
-      },
-      "geometry": {
-        "coordinates": [
-          8.987595,
-          47.422513,
-          640
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1453362537,
         "title": "Montespluga › West: Madesimo › West",
         "city": "Montespluga",
@@ -41818,24 +41782,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1456576879,
-        "title": "Bardonecchia",
-        "city": "Bardonecchia",
-        "country_code": "IT",
-        "elevation": 1804
-      },
-      "geometry": {
-        "coordinates": [
-          6.691772,
-          45.046572,
-          1804
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1456577042,
         "title": "Bardonecchia: Ban",
         "city": "Bardonecchia",
@@ -41937,24 +41883,6 @@
           8.20354,
           44.36695,
           431
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1456686327,
-        "title": "Belluno › West",
-        "city": "Belluno",
-        "country_code": "IT",
-        "elevation": 396
-      },
-      "geometry": {
-        "coordinates": [
-          12.216973,
-          46.138076,
-          396
         ],
         "type": "Point"
       }
@@ -42189,24 +42117,6 @@
           7.920991,
           46.605523,
           1280
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1458342496,
-        "title": "Sappada: Veneto",
-        "city": "Sappada",
-        "country_code": "IT",
-        "elevation": 1236
-      },
-      "geometry": {
-        "coordinates": [
-          12.68421,
-          46.56663,
-          1236
         ],
         "type": "Point"
       }
@@ -45177,6 +45087,24 @@
           12.190704,
           47.62682,
           469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1466247930,
+        "title": "Ehingen › North: an der Donau: Wettercam über - und die schwäbische Alb",
+        "city": "Ehingen",
+        "country_code": "DE",
+        "elevation": 536
+      },
+      "geometry": {
+        "coordinates": [
+          9.737661,
+          48.282076,
+          536
         ],
         "type": "Point"
       }
@@ -49488,7 +49416,7 @@
       "properties": {
         "id": 1485780303,
         "title": "Podljubelj: G2-101, Ljubelj - Bistrica (Tržič), pred prehodom Ljubelj",
-        "city": "Podljubelj",
+        "city": "Trzic",
         "country_code": "SI",
         "elevation": 1066
       },
@@ -50973,6 +50901,24 @@
           13.546783,
           47.270653,
           2178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1495700413,
+        "title": "Bern",
+        "city": "Bern",
+        "country_code": "CH",
+        "elevation": 563
+      },
+      "geometry": {
+        "coordinates": [
+          7.462337,
+          46.95659,
+          563
         ],
         "type": "Point"
       }
@@ -52816,6 +52762,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1509983635,
+        "title": "Pinzolo: Piazza Brenta Alta - Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+        "city": "Pinzolo",
+        "country_code": "IT",
+        "elevation": 1528
+      },
+      "geometry": {
+        "coordinates": [
+          10.82627,
+          46.23221,
+          1528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1510006262,
         "title": "Geinberg: Thermalbad",
         "city": "Geinberg",
@@ -52971,6 +52935,24 @@
           7.90528,
           46.83499,
           1474
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1510351868,
+        "title": "Reichenau: Karlalm am Falkertsee",
+        "city": "Reichenau",
+        "country_code": "AT",
+        "elevation": 1857
+      },
+      "geometry": {
+        "coordinates": [
+          13.832699,
+          46.862817,
+          1857
         ],
         "type": "Point"
       }
@@ -54670,6 +54652,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1515708447,
+        "title": "Magdalensberg",
+        "city": "Magdalensberg",
+        "country_code": "AT",
+        "elevation": 1044
+      },
+      "geometry": {
+        "coordinates": [
+          14.429191,
+          46.727699,
+          1044
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1515708449,
         "title": "St. Leonhard in Passeier - San Leonardo in Passiria: Passeiertal",
         "city": "St. Leonhard in Passeier - San Leonardo in Passiria",
@@ -56164,6 +56164,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1521324603,
+        "title": "Bodensdorf: Hotel SeeRose",
+        "city": "Bodensdorf",
+        "country_code": "AT",
+        "elevation": 505
+      },
+      "geometry": {
+        "coordinates": [
+          13.97056,
+          46.677902,
+          505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1521324609,
         "title": "Fussen: Hotel Sommer GmbH",
         "city": "Fussen",
@@ -57406,24 +57424,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1527492692,
-        "title": "Elgg: Ruine Schauenberg",
-        "city": "Elgg",
-        "country_code": "CH",
-        "elevation": 847
-      },
-      "geometry": {
-        "coordinates": [
-          8.866514,
-          47.46005,
-          847
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1527518754,
         "title": "Bad Bleiberg: Antonischacht",
         "city": "Bad Bleiberg",
@@ -57784,6 +57784,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1527519076,
+        "title": "Jakomini: Graz Rathausturm",
+        "city": "Jakomini",
+        "country_code": "AT",
+        "elevation": 365
+      },
+      "geometry": {
+        "coordinates": [
+          15.438472,
+          47.070671,
+          365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1527519086,
         "title": "Grossarl",
         "city": "Grossarl",
@@ -57813,6 +57831,24 @@
           12.654246,
           47.607952,
           1359
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1527519105,
+        "title": "Hermagor-Pressegger See: Nassfeld Sonnleitn",
+        "city": "Hermagor-Pressegger See",
+        "country_code": "AT",
+        "elevation": 1381
+      },
+      "geometry": {
+        "coordinates": [
+          13.258893,
+          46.58456,
+          1381
         ],
         "type": "Point"
       }
@@ -58335,6 +58371,24 @@
           14.871795,
           46.183985,
           597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1530136119,
+        "title": "Steindorf am Ossiacher See: Panoramakamera Gerlitzen",
+        "city": "Steindorf am Ossiacher See",
+        "country_code": "AT",
+        "elevation": 1906
+      },
+      "geometry": {
+        "coordinates": [
+          13.913618,
+          46.695381,
+          1906
         ],
         "type": "Point"
       }
@@ -59764,6 +59818,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1542692892,
+        "title": "Treffen am Ossiacher See: Gerlitzen Mittelstation",
+        "city": "Treffen am Ossiacher See",
+        "country_code": "AT",
+        "elevation": 1471
+      },
+      "geometry": {
+        "coordinates": [
+          13.901726,
+          46.682083,
+          1471
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1542692898,
         "title": "Arriach: Gerlitzen Neugarten",
         "city": "Arriach",
@@ -59883,6 +59955,24 @@
           8.543921,
           47.374523,
           421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1542692940,
+        "title": "Innere Stadt: Klagenfurt Neuer Platz",
+        "city": "Innere Stadt",
+        "country_code": "AT",
+        "elevation": 448
+      },
+      "geometry": {
+        "coordinates": [
+          14.308021,
+          46.623837,
+          448
         ],
         "type": "Point"
       }
@@ -62032,24 +62122,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1548111352,
-        "title": "Predazzo: Rifugio Torre di Pisa",
-        "city": "Predazzo",
-        "country_code": "IT",
-        "elevation": 2661
-      },
-      "geometry": {
-        "coordinates": [
-          11.559645,
-          46.360838,
-          2661
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1548111717,
         "title": "Fanano: Rifugio Capanno Tassoni",
         "city": "Fanano",
@@ -62842,6 +62914,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1550515960,
+        "title": "Le Mas",
+        "city": "Le Mas",
+        "country_code": "FR",
+        "elevation": 900
+      },
+      "geometry": {
+        "coordinates": [
+          6.85893,
+          43.843161,
+          900
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1550516345,
         "title": "Clans › North-West",
         "city": "Clans",
@@ -63004,6 +63094,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1550785721,
+        "title": "Baldramsdorf: Kinderland",
+        "city": "Baldramsdorf",
+        "country_code": "AT",
+        "elevation": 1777
+      },
+      "geometry": {
+        "coordinates": [
+          13.454535,
+          46.769951,
+          1777
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1550785724,
         "title": "Baldramsdorf: Goldeck Bärenbiss",
         "city": "Baldramsdorf",
@@ -63087,6 +63195,24 @@
           14.774812,
           46.542423,
           624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1550785782,
+        "title": "Prati: Ridnauntal",
+        "city": "Prati",
+        "country_code": "IT",
+        "elevation": 1383
+      },
+      "geometry": {
+        "coordinates": [
+          11.317313,
+          46.90863,
+          1383
         ],
         "type": "Point"
       }
@@ -63447,6 +63573,24 @@
           11.868755,
           46.64115,
           1406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1553723327,
+        "title": "Rasen-Antholz - Rasun-Anterselva: Hotel Brötz",
+        "city": "Rasen-Antholz - Rasun-Anterselva",
+        "country_code": "IT",
+        "elevation": 1031
+      },
+      "geometry": {
+        "coordinates": [
+          12.048284,
+          46.779556,
+          1031
         ],
         "type": "Point"
       }
@@ -64966,6 +65110,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1563400117,
+        "title": "Velden am Worther See: Hotel Post Wrann",
+        "city": "Velden am Worther See",
+        "country_code": "AT",
+        "elevation": 449
+      },
+      "geometry": {
+        "coordinates": [
+          14.043979,
+          46.616356,
+          449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1563485122,
         "title": "Ahrntal - Valle Aurina: Hotel Markus - St. Jakob im",
         "city": "Ahrntal - Valle Aurina",
@@ -65013,6 +65175,24 @@
           12.001198,
           46.746433,
           1406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1563815216,
+        "title": "Frassene: Frassenè - Monte Civetta, Gruppo Moiazza, Passo Duràn, Pale di S.Sebastiano",
+        "city": "Frassene",
+        "country_code": "IT",
+        "elevation": 1135
+      },
+      "geometry": {
+        "coordinates": [
+          11.980563,
+          46.252408,
+          1135
         ],
         "type": "Point"
       }
@@ -65283,24 +65463,6 @@
           9.799086,
           45.887723,
           1268
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1566941119,
-        "title": "Gemeinde Kals am Grossglockner: Adlersruhe - Blick nach Westen zum Großglockner",
-        "city": "Gemeinde Kals am Grossglockner",
-        "country_code": "AT",
-        "elevation": 3398
-      },
-      "geometry": {
-        "coordinates": [
-          12.701578,
-          47.069958,
-          3398
         ],
         "type": "Point"
       }
@@ -65769,6 +65931,24 @@
           15.977097,
           46.889774,
           425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1570744132,
+        "title": "Velden am Worther See: Golf Velden am Wörthersee",
+        "city": "Velden am Worther See",
+        "country_code": "AT",
+        "elevation": 781
+      },
+      "geometry": {
+        "coordinates": [
+          13.999587,
+          46.650391,
+          781
         ],
         "type": "Point"
       }
@@ -68091,6 +68271,24 @@
           11.421646,
           47.919989,
           575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1578606531,
+        "title": "Bodental: Familie Lausegger",
+        "city": "Bodental",
+        "country_code": "AT",
+        "elevation": 1071
+      },
+      "geometry": {
+        "coordinates": [
+          14.229738,
+          46.486294,
+          1071
         ],
         "type": "Point"
       }
@@ -73408,24 +73606,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1592498060,
-        "title": "Partenkirchen: Garmisch - Rathaus",
-        "city": "Partenkirchen",
-        "country_code": "DE",
-        "elevation": 710
-      },
-      "geometry": {
-        "coordinates": [
-          11.103995,
-          47.493678,
-          710
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1592498061,
         "title": "Schladming: Lärchkogelbahn",
         "city": "Schladming",
@@ -74337,24 +74517,6 @@
           7.943075,
           46.611097,
           2222
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1592498380,
-        "title": "Mittenwald: Alpenwelt Karwendel - Kirche",
-        "city": "Mittenwald",
-        "country_code": "DE",
-        "elevation": 914
-      },
-      "geometry": {
-        "coordinates": [
-          11.260396,
-          47.442139,
-          914
         ],
         "type": "Point"
       }
@@ -75334,17 +75496,17 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1593293102,
-        "title": "Heiligenblut am Grossglockner: Fotopoint Adlersruhe am Großglockner - Blick nach Süden",
-        "city": "Heiligenblut am Grossglockner",
+        "id": 1593344829,
+        "title": "Gemeinde Mittelberg › South: Bannholzhof - Widderstein",
+        "city": "Gemeinde Mittelberg",
         "country_code": "AT",
-        "elevation": 3398
+        "elevation": 1136
       },
       "geometry": {
         "coordinates": [
-          12.701594,
-          47.069887,
-          3398
+          10.188041,
+          47.355068,
+          1136
         ],
         "type": "Point"
       }
@@ -83164,24 +83326,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1615449361,
-        "title": "Beatenberg › South: Beatenberg, Waldegg - Niesen - Eiger - Jungfraujoch - Jungfrau - Schreckhorn",
-        "city": "Beatenberg",
-        "country_code": "CH",
-        "elevation": 1204
-      },
-      "geometry": {
-        "coordinates": [
-          7.816067,
-          46.697892,
-          1204
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1615642061,
         "title": "Monte Santa Maria Tiberina",
         "city": "Monte Santa Maria Tiberina",
@@ -85828,6 +85972,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1622530139,
+        "title": "Sixt-Fer-a-Cheval: Cirque du Fer-à-Cheval",
+        "city": "Sixt-Fer-a-Cheval",
+        "country_code": "FR",
+        "elevation": 964
+      },
+      "geometry": {
+        "coordinates": [
+          6.840689,
+          46.077494,
+          964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1622584223,
         "title": "Kuchl: Delino GmbH",
         "city": "Kuchl",
@@ -86595,6 +86757,24 @@
           13.745145,
           47.661194,
           859
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1624398633,
+        "title": "Zlan: Strandbad der Gemeinde Stockenboi im Naturpark Weißensee Ostufer",
+        "city": "Zlan",
+        "country_code": "AT",
+        "elevation": 943
+      },
+      "geometry": {
+        "coordinates": [
+          13.41266,
+          46.702667,
+          943
         ],
         "type": "Point"
       }
@@ -91552,6 +91732,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1639777768,
+        "title": "Deutschnofen - Nova Ponente: Panoramahotel Obkircher",
+        "city": "Deutschnofen - Nova Ponente",
+        "country_code": "IT",
+        "elevation": 1454
+      },
+      "geometry": {
+        "coordinates": [
+          11.427655,
+          46.419384,
+          1454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1639915421,
         "title": "Pergola › North: N",
         "city": "Pergola",
@@ -95170,24 +95368,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1647076268,
-        "title": "Valli del Pasubio › East",
-        "city": "Valli del Pasubio",
-        "country_code": "IT",
-        "elevation": 1923
-      },
-      "geometry": {
-        "coordinates": [
-          11.18613,
-          45.783946,
-          1923
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1647104906,
         "title": "Predazzo: Castelir di Bellamonte",
         "city": "Predazzo",
@@ -95217,24 +95397,6 @@
           7.783776,
           44.254779,
           1523
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1647346958,
-        "title": "Gemeinde Vandans › North: Totalphütte 2385 m, Rätikon (Alpenverein Vorarlberg)",
-        "city": "Gemeinde Vandans",
-        "country_code": "AT",
-        "elevation": 2344
-      },
-      "geometry": {
-        "coordinates": [
-          9.726782,
-          47.052099,
-          2344
         ],
         "type": "Point"
       }
@@ -95908,24 +96070,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1648840652,
-        "title": "Ala › North-West: Ronchi di Ala",
-        "city": "Ala",
-        "country_code": "IT",
-        "elevation": 693
-      },
-      "geometry": {
-        "coordinates": [
-          11.065413,
-          45.739163,
-          693
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1648911089,
         "title": "Gemeinde Bramberg am Wildkogel › North-East",
         "city": "Gemeinde Bramberg am Wildkogel",
@@ -96207,24 +96351,6 @@
           8.675878,
           46.95709,
           1910
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1649682470,
-        "title": "Castello-Molina di Fiemme: Manghen Pass - Passo Manghen",
-        "city": "Castello-Molina di Fiemme",
-        "country_code": "IT",
-        "elevation": 1969
-      },
-      "geometry": {
-        "coordinates": [
-          11.438867,
-          46.175265,
-          1969
         ],
         "type": "Point"
       }
@@ -99022,24 +99148,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1656492581,
-        "title": "Muhlbach - Rio di Pusteria: TRATTERHOF - The Mountain Sky Hotel",
-        "city": "Muhlbach - Rio di Pusteria",
-        "country_code": "IT",
-        "elevation": 1498
-      },
-      "geometry": {
-        "coordinates": [
-          11.651015,
-          46.818732,
-          1498
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1656667785,
         "title": "Sursee: Luzerner Kantonsspital Sursee",
         "city": "Sursee",
@@ -101794,6 +101902,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1664315297,
+        "title": "Kastelruth - Ciastel - Castelrotto: Abinea Dolomiti Romantic Spa Hotel",
+        "city": "Kastelruth - Ciastel - Castelrotto",
+        "country_code": "IT",
+        "elevation": 1039
+      },
+      "geometry": {
+        "coordinates": [
+          11.565194,
+          46.568779,
+          1039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1664382118,
         "title": "Zermatt",
         "city": "Zermatt",
@@ -102651,24 +102777,6 @@
           7.456168,
           45.421849,
           782
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1667290031,
-        "title": "Uvernet-Fours",
-        "city": "Uvernet-Fours",
-        "country_code": "FR",
-        "elevation": 1804
-      },
-      "geometry": {
-        "coordinates": [
-          6.604417,
-          44.361047,
-          1804
         ],
         "type": "Point"
       }
@@ -104350,6 +104458,78 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1668462956,
+        "title": "Sulden - Solda",
+        "city": "Sulden - Solda",
+        "country_code": "IT",
+        "elevation": 2608
+      },
+      "geometry": {
+        "coordinates": [
+          10.598696,
+          46.491081,
+          2608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1668462984,
+        "title": "Sulden - Solda",
+        "city": "Sulden - Solda",
+        "country_code": "IT",
+        "elevation": 2608
+      },
+      "geometry": {
+        "coordinates": [
+          10.598696,
+          46.491081,
+          2608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1668463045,
+        "title": "Sulden - Solda",
+        "city": "Sulden - Solda",
+        "country_code": "IT",
+        "elevation": 2608
+      },
+      "geometry": {
+        "coordinates": [
+          10.598696,
+          46.491081,
+          2608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1668501763,
+        "title": "Valmozzola › East",
+        "city": "Valmozzola",
+        "country_code": "IT",
+        "elevation": 386
+      },
+      "geometry": {
+        "coordinates": [
+          9.910973,
+          44.582481,
+          386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1668509931,
         "title": "La Grave › South",
         "city": "La Grave",
@@ -105963,6 +106143,96 @@
           10.719844,
           44.214911,
           1538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1670074040,
+        "title": "Folgaria › South-West",
+        "city": "Folgaria",
+        "country_code": "IT",
+        "elevation": 1249
+      },
+      "geometry": {
+        "coordinates": [
+          11.154409,
+          45.899096,
+          1249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1670074387,
+        "title": "Brentonico › South-East",
+        "city": "Brentonico",
+        "country_code": "IT",
+        "elevation": 1306
+      },
+      "geometry": {
+        "coordinates": [
+          10.910542,
+          45.782909,
+          1306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1670074545,
+        "title": "Vallarsa › North",
+        "city": "Vallarsa",
+        "country_code": "IT",
+        "elevation": 1169
+      },
+      "geometry": {
+        "coordinates": [
+          11.172969,
+          45.760215,
+          1169
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1670143928,
+        "title": "Beaumont-du-Ventoux",
+        "city": "Beaumont-du-Ventoux",
+        "country_code": "FR",
+        "elevation": 1392
+      },
+      "geometry": {
+        "coordinates": [
+          5.267246,
+          44.183859,
+          1392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1670165432,
+        "title": "Sezana",
+        "city": "Sezana",
+        "country_code": "SI",
+        "elevation": 349
+      },
+      "geometry": {
+        "coordinates": [
+          13.928109,
+          45.738075,
+          349
         ],
         "type": "Point"
       }
