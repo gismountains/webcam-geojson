@@ -3118,6 +3118,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1182426013,
+        "title": "Marktgemeinde St. Johann in Tirol › South: Kitzbüheler Horn",
+        "city": "Marktgemeinde St. Johann in Tirol",
+        "country_code": "AT",
+        "elevation": 659
+      },
+      "geometry": {
+        "coordinates": [
+          12.421001,
+          47.523368,
+          659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1182426995,
         "title": "Ternberg › East: Hohe Dirn",
         "city": "Ternberg",
@@ -15592,6 +15610,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1279359301,
+        "title": "Maiolati Spontini",
+        "city": "Maiolati Spontini",
+        "country_code": "IT",
+        "elevation": 415
+      },
+      "geometry": {
+        "coordinates": [
+          13.12177,
+          43.47766,
+          415
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1280738006,
         "title": "Cogne: Rifugio Chabod al Gran Paradiso",
         "city": "Cogne",
@@ -15729,6 +15765,42 @@
           9.306113,
           45.839122,
           1104
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1282345121,
+        "title": "Marktgemeinde St. Johann in Tirol: Wilder Kaiser",
+        "city": "Marktgemeinde St. Johann in Tirol",
+        "country_code": "AT",
+        "elevation": 659
+      },
+      "geometry": {
+        "coordinates": [
+          12.420741,
+          47.523381,
+          659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1282345584,
+        "title": "Marktgemeinde St. Johann in Tirol: Kitzbüheler Horn",
+        "city": "Marktgemeinde St. Johann in Tirol",
+        "country_code": "AT",
+        "elevation": 659
+      },
+      "geometry": {
+        "coordinates": [
+          12.420897,
+          47.523397,
+          659
         ],
         "type": "Point"
       }
@@ -22252,6 +22324,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1325493493,
+        "title": "Wengen: Hotel Bellevue, Wengen",
+        "city": "Wengen",
+        "country_code": "CH",
+        "elevation": 1256
+      },
+      "geometry": {
+        "coordinates": [
+          7.916095,
+          46.608741,
+          1256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1325493614,
         "title": "Wengen: Jungfrau",
         "city": "Wengen",
@@ -22335,24 +22425,6 @@
           6.914788,
           46.746514,
           646
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1327321498,
-        "title": "Marling - Marlengo: Blick auf die Kurstadt Meran",
-        "city": "Marling - Marlengo",
-        "country_code": "IT",
-        "elevation": 375
-      },
-      "geometry": {
-        "coordinates": [
-          11.140738,
-          46.657979,
-          375
         ],
         "type": "Point"
       }
@@ -23775,6 +23847,24 @@
           12.222848,
           46.159234,
           395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1343483134,
+        "title": "Weinried: Babenhausen - Evangelikreuz",
+        "city": "Weinried",
+        "country_code": "DE",
+        "elevation": 569
+      },
+      "geometry": {
+        "coordinates": [
+          10.263462,
+          48.141463,
+          569
         ],
         "type": "Point"
       }
@@ -25467,6 +25557,24 @@
           6.321728,
           44.696955,
           1825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1350035878,
+        "title": "Vorlinsbach: Oberried - Dreisamtal",
+        "city": "Vorlinsbach",
+        "country_code": "DE",
+        "elevation": 456
+      },
+      "geometry": {
+        "coordinates": [
+          7.955826,
+          47.93459,
+          456
         ],
         "type": "Point"
       }
@@ -30190,24 +30298,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1371860637,
-        "title": "Budoia: Piancavallo - dalla cassa centrale",
-        "city": "Budoia",
-        "country_code": "IT",
-        "elevation": 1292
-      },
-      "geometry": {
-        "coordinates": [
-          12.515944,
-          46.110478,
-          1292
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1371911895,
         "title": "Honstetten",
         "city": "Honstetten",
@@ -32476,6 +32566,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1390329696,
+        "title": "Unterwossen: Christa Kinshofer Skizentrum Tegernseer Tal Sonnenbichl - Bad Wiessee",
+        "city": "Unterwossen",
+        "country_code": "DE",
+        "elevation": 1044
+      },
+      "geometry": {
+        "coordinates": [
+          11.710077,
+          47.699882,
+          1044
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1390329873,
         "title": "Ramsau bei Berchtesgaden: Vorderloiplsau - Berchtesgadener Land - Blick zum Hochkalter und zur Reiteralm",
         "city": "Ramsau bei Berchtesgaden",
@@ -32926,24 +33034,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1392466223,
-        "title": "Canal San Bovo: Valle del Vanoi",
-        "city": "Canal San Bovo",
-        "country_code": "IT",
-        "elevation": 1650
-      },
-      "geometry": {
-        "coordinates": [
-          11.749175,
-          46.13552,
-          1650
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1392544964,
         "title": "Corniglio › East: Rifugio Lago Santo",
         "city": "Corniglio",
@@ -33099,6 +33189,24 @@
           8.48822,
           46.14158,
           894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1393513307,
+        "title": "Foza › North: VI",
+        "city": "Foza",
+        "country_code": "IT",
+        "elevation": 1086
+      },
+      "geometry": {
+        "coordinates": [
+          11.63079,
+          45.8962,
+          1086
         ],
         "type": "Point"
       }
@@ -37642,6 +37750,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1430554152,
+        "title": "Unterstammheim",
+        "city": "Unterstammheim",
+        "country_code": "CH",
+        "elevation": 440
+      },
+      "geometry": {
+        "coordinates": [
+          8.790458,
+          47.639304,
+          440
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1430972773,
         "title": "Algetshausen › North",
         "city": "Algetshausen",
@@ -39118,6 +39244,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1445791940,
+        "title": "Auronzo di Cadore › South-West: Monte Cristallo",
+        "city": "Auronzo di Cadore",
+        "country_code": "IT",
+        "elevation": 2286
+      },
+      "geometry": {
+        "coordinates": [
+          12.29722,
+          46.611361,
+          2286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1445792065,
         "title": "Auronzo di Cadore › South: Cadini di Misurina",
         "city": "Auronzo di Cadore",
@@ -39399,6 +39543,24 @@
           11.639128,
           46.519478,
           2108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1447881985,
+        "title": "Gemeinde Damuls: Furkajoch - Blick nach Westen",
+        "city": "Gemeinde Damuls",
+        "country_code": "AT",
+        "elevation": 1611
+      },
+      "geometry": {
+        "coordinates": [
+          9.827745,
+          47.264004,
+          1611
         ],
         "type": "Point"
       }
@@ -39993,6 +40155,24 @@
           13.088379,
           46.730812,
           641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1450611127,
+        "title": "Furna › East: Jenaz - Prätigau - Fideris - Prättigau/Davos District",
+        "city": "Furna",
+        "country_code": "CH",
+        "elevation": 1392
+      },
+      "geometry": {
+        "coordinates": [
+          9.678126,
+          46.941376,
+          1392
         ],
         "type": "Point"
       }
@@ -42099,6 +42279,42 @@
           8.20354,
           44.36695,
           431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1456686327,
+        "title": "Belluno › West",
+        "city": "Belluno",
+        "country_code": "IT",
+        "elevation": 396
+      },
+      "geometry": {
+        "coordinates": [
+          12.216973,
+          46.138076,
+          396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1456686518,
+        "title": "Belluno › West",
+        "city": "Belluno",
+        "country_code": "IT",
+        "elevation": 394
+      },
+      "geometry": {
+        "coordinates": [
+          12.217357,
+          46.13961,
+          394
         ],
         "type": "Point"
       }
@@ -44482,24 +44698,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1462287014,
-        "title": "Gemeinde Seitenstetten: Tiefenbach - Sölden - Ötztal Arena",
-        "city": "Gemeinde Seitenstetten",
-        "country_code": "AT",
-        "elevation": 3226
-      },
-      "geometry": {
-        "coordinates": [
-          10.926075,
-          46.92483,
-          3226
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1462287031,
         "title": "Gemeinde Seitenstetten: Tiefenbach - Sölden - Ötztal Arena",
         "city": "Gemeinde Seitenstetten",
@@ -45015,24 +45213,6 @@
           11.80069,
           48.19556,
           509
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1463918787,
-        "title": "Fournet-Blancheroche › North: ULM Fournet",
-        "city": "Fournet-Blancheroche",
-        "country_code": "FR",
-        "elevation": 872
-      },
-      "geometry": {
-        "coordinates": [
-          6.811953,
-          47.176135,
-          872
         ],
         "type": "Point"
       }
@@ -45735,24 +45915,6 @@
           6.565969,
           45.66893,
           1695
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1467899220,
-        "title": "Beaufort: Arêches",
-        "city": "Beaufort",
-        "country_code": "FR",
-        "elevation": 1862
-      },
-      "geometry": {
-        "coordinates": [
-          6.533428,
-          45.657015,
-          1862
         ],
         "type": "Point"
       }
@@ -50890,24 +51052,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1492519526,
-        "title": "Sigillo: Monte Cucco",
-        "city": "Sigillo",
-        "country_code": "IT",
-        "elevation": 494
-      },
-      "geometry": {
-        "coordinates": [
-          12.733809,
-          43.33754,
-          494
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1492590884,
         "title": "Marktgemeinde Frastanz › East: 6820 Frastanz amerlügen: Walgau",
         "city": "Marktgemeinde Frastanz",
@@ -51459,6 +51603,24 @@
           12.738906,
           47.162799,
           2713
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1498546640,
+        "title": "Calalzo di Cadore › North-West: Rifugio Chiggiato",
+        "city": "Calalzo di Cadore",
+        "country_code": "IT",
+        "elevation": 1879
+      },
+      "geometry": {
+        "coordinates": [
+          12.348032,
+          46.482719,
+          1879
         ],
         "type": "Point"
       }
@@ -54364,24 +54526,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1513376012,
-        "title": "Vent: Webcam - Blick auf",
-        "city": "Vent",
-        "country_code": "AT",
-        "elevation": 2077
-      },
-      "geometry": {
-        "coordinates": [
-          10.920883,
-          46.872589,
-          2077
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1513502002,
         "title": "Sempach › South-West: Lake Sempach",
         "city": "Sempach",
@@ -56632,24 +56776,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1522176888,
-        "title": "Aschau im Chiemgau › South-East",
-        "city": "Aschau im Chiemgau",
-        "country_code": "DE",
-        "elevation": 626
-      },
-      "geometry": {
-        "coordinates": [
-          12.310513,
-          47.784653,
-          626
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1522176998,
         "title": "Aschau im Chiemgau › North: Hohenaschau im Chiemgau",
         "city": "Aschau im Chiemgau",
@@ -58486,42 +58612,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1529012064,
-        "title": "Tignale",
-        "city": "Tignale",
-        "country_code": "IT",
-        "elevation": 688
-      },
-      "geometry": {
-        "coordinates": [
-          10.724421,
-          45.743222,
-          688
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1529095686,
-        "title": "Toscolano Maderno › South-East: Toscolano Maderno BS",
-        "city": "Toscolano Maderno",
-        "country_code": "IT",
-        "elevation": 1189
-      },
-      "geometry": {
-        "coordinates": [
-          10.58642,
-          45.663803,
-          1189
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1529147427,
         "title": "Cecima › South: Serra del Monte › South",
         "city": "Cecima",
@@ -59451,6 +59541,42 @@
           9.358829,
           47.416404,
           676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1537893901,
+        "title": "Stockenboi › South-West: Parkplatz Seetal - Goldeck - Wieserhütte - Seetal",
+        "city": "Stockenboi",
+        "country_code": "AT",
+        "elevation": 1915
+      },
+      "geometry": {
+        "coordinates": [
+          13.460528,
+          46.752158,
+          1915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1537894469,
+        "title": "Baldramsdorf › South-West: Wieser Hütte - Goldeck - Dobratsch - Wieserhütte - Seetal",
+        "city": "Baldramsdorf",
+        "country_code": "AT",
+        "elevation": 1915
+      },
+      "geometry": {
+        "coordinates": [
+          13.460488,
+          46.75218,
+          1915
         ],
         "type": "Point"
       }
@@ -61240,24 +61366,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1544431392,
-        "title": "Beaufort: Arêches",
-        "city": "Beaufort",
-        "country_code": "FR",
-        "elevation": 1030
-      },
-      "geometry": {
-        "coordinates": [
-          6.5679,
-          45.68737,
-          1030
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1544467482,
         "title": "Neuhausen am Rheinfall › North-East: Nordost (Flurlingen)",
         "city": "Neuhausen am Rheinfall",
@@ -62626,24 +62734,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1548417863,
-        "title": "Bagnolo Piemonte: Montoso - Rucas, arco alpino",
-        "city": "Bagnolo Piemonte",
-        "country_code": "IT",
-        "elevation": 1526
-      },
-      "geometry": {
-        "coordinates": [
-          7.21698,
-          44.756986,
-          1526
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1548486719,
         "title": "Salzburg: Salzburg Airport",
         "city": "Salzburg",
@@ -63015,24 +63105,6 @@
           7.400103,
           46.297506,
           1485
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1549014379,
-        "title": "Renens: Renens VD, gare",
-        "city": "Renens",
-        "country_code": "CH",
-        "elevation": 419
-      },
-      "geometry": {
-        "coordinates": [
-          6.579084,
-          46.536566,
-          419
         ],
         "type": "Point"
       }
@@ -76630,24 +76702,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1596874833,
-        "title": "Albino: Valle Seriana",
-        "city": "Albino",
-        "country_code": "IT",
-        "elevation": 1032
-      },
-      "geometry": {
-        "coordinates": [
-          9.813151,
-          45.743104,
-          1032
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1597182621,
         "title": "Kitzeck im Sausal: Kitzeck Südsteiermark - Blick vom Kirchturm",
         "city": "Kitzeck im Sausal",
@@ -77181,6 +77235,24 @@
           12.135505,
           46.927043,
           2896
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1599427504,
+        "title": "Ulten - Ultimo: Weißbrunnferner | Ghiacciaio di Fontana Bianca - Südtirol | Val d’ - Alto Adige",
+        "city": "Ulten - Ultimo",
+        "country_code": "IT",
+        "elevation": 2905
+      },
+      "geometry": {
+        "coordinates": [
+          10.801753,
+          46.488461,
+          2905
         ],
         "type": "Point"
       }
@@ -82264,6 +82336,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1611511887,
+        "title": "Ziri › North-East",
+        "city": "Ziri",
+        "country_code": "SI",
+        "elevation": 642
+      },
+      "geometry": {
+        "coordinates": [
+          14.220507,
+          46.031096,
+          642
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1611524323,
         "title": "Pralognan-la-Vanoise",
         "city": "Pralognan-la-Vanoise",
@@ -85029,24 +85119,6 @@
           8.565656,
           47.378206,
           556
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1619024425,
-        "title": "Samedan: Piz Corvatsch",
-        "city": "Samedan",
-        "country_code": "CH",
-        "elevation": 3279
-      },
-      "geometry": {
-        "coordinates": [
-          9.821042,
-          46.417822,
-          3279
         ],
         "type": "Point"
       }
@@ -96196,24 +96268,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1647387015,
-        "title": "Brentonico",
-        "city": "Brentonico",
-        "country_code": "IT",
-        "elevation": 2042
-      },
-      "geometry": {
-        "coordinates": [
-          10.890359,
-          45.810376,
-          2042
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1647401463,
         "title": "Domzale: A1/E57, Maribor - Ljubljana, priključek Krtina",
         "city": "Domzale",
@@ -96639,6 +96693,24 @@
           9.343979,
           46.427474,
           1401
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1648558555,
+        "title": "Madesimo: Montespluga - Lago",
+        "city": "Madesimo",
+        "country_code": "IT",
+        "elevation": 1904
+      },
+      "geometry": {
+        "coordinates": [
+          9.336943,
+          46.489222,
+          1904
         ],
         "type": "Point"
       }
@@ -99490,24 +99562,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1655830861,
-        "title": "Haute-Ajoie: Roche d'Or",
-        "city": "Haute-Ajoie",
-        "country_code": "CH",
-        "elevation": 923
-      },
-      "geometry": {
-        "coordinates": [
-          6.958969,
-          47.363961,
-          923
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1655868775,
         "title": "Kozje: R2-422, Podsreda - Brestanica, Poklek pri Podsredi",
         "city": "Kozje",
@@ -100005,24 +100059,6 @@
           6.853543,
           46.386543,
           374
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1657528871,
-        "title": "Waldkirch › South",
-        "city": "Waldkirch",
-        "country_code": "DE",
-        "elevation": 1198
-      },
-      "geometry": {
-        "coordinates": [
-          8.015476,
-          48.065688,
-          1198
         ],
         "type": "Point"
       }
@@ -107403,6 +107439,24 @@
           7.642095,
           45.418502,
           927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1670916506,
+        "title": "Hermagor-Pressegger See",
+        "city": "Hermagor-Pressegger See",
+        "country_code": "AT",
+        "elevation": 1438
+      },
+      "geometry": {
+        "coordinates": [
+          13.273973,
+          46.568833,
+          1438
         ],
         "type": "Point"
       }
