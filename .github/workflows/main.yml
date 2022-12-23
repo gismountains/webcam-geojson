@@ -23,6 +23,7 @@ jobs:
         run: |
           touch .env
           echo WINDYKEY=${{ secrets.WINDYKEY }} >> .env
+          echo ARCGISAPIKEY=${{ secrets.ARCGISAPIKEY }} >> .env
           npm install
           npm start
 
