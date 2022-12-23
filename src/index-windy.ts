@@ -60,6 +60,7 @@ async function createWindyWebcamsGeoJson(title: string, ne_lat: number, ne_lng: 
         const geometry = encodeURI(`{"points":${JSON.stringify(locationArray)},"spatialReference":{"wkid":4326}}`)
         const geometryType = "esriGeometryMultipoint"
         const bodyString = `geometry=${geometry}&geometryType=${geometryType}&f=pjson&token=${token}`
+        console.log(bodyString)
         const startrequestelevation = new Date().getTime();
         const responseElevation = await fetch(elevationApiUrl, {
             method: 'POST',
