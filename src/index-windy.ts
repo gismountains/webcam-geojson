@@ -30,13 +30,16 @@ async function createWindyWebcamsGeoJson(title: string, ne_lat: number, ne_lng: 
     // request the sliced webcam list with multi requests
     const maxcount = Math.ceil(totalWebcams / limit)
     const webcamFeatures = []
-    for (let page = 1; page <= maxcount; page++) {        
+    for (let page = 1; page <= maxcount; page++) {
         const fullPath = `https://api.windy.com/api/webcams/v2/list/bbox=${ne_lat},${ne_lng},${sw_lat},${sw_lng}/limit=${limit},${offset}/?show=webcams:location`
         console.log(`${page} of ${maxcount} with ${fullPath}`)
+        const startrequestwebcam = new Date().getTime();
         const response = await fetch(fullPath, {
             headers: { 'Accept': 'application/json', 'x-windy-key': process.env.WINDYKEY }
         });
         const webcamsdata = await response.json();
+        const elapsedwebcam = (new Date().getTime() - startrequestwebcam) / 1000;
+        console.log(`        Elapsed webcam request: ${elapsedwebcam}`)
         // save the raw data if wanted
         if (saveraw) {
             fs.writeFile(`${directoryraw}${title}_` + offset + ".json", JSON.stringify(webcamsdata, null, 4), function (err: any) {
@@ -49,27 +52,36 @@ async function createWindyWebcamsGeoJson(title: string, ne_lat: number, ne_lng: 
         // request the elevation for the webcam position
         let locationArray = []
         for (const webcam of webcamsdata.result.webcams) {
-            locationArray.push({
-                latitude: webcam.location.latitude,
-                longitude: webcam.location.longitude,
-            })
+            locationArray.push([webcam.location.longitude, webcam.location.latitude])
         }
 
-        const elevationApiUrl = "https://api.open-elevation.com/api/v1/lookup";
+        const elevationApiUrl = "https://elevation.arcgis.com/arcgis/rest/services/WorldElevation/Terrain/ImageServer/getSamples";
+        const token = process.env.ARCGISAPIKEY;
+        const geometry = encodeURI(`{"points":${JSON.stringify(locationArray)},"spatialReference":{"wkid":4326}}`)
+        const geometryType = "esriGeometryMultipoint"
+        const bodyString = `geometry=${geometry}&geometryType=${geometryType}&f=pjson&token=${token}`
+        const startrequestelevation = new Date().getTime();
         const responseElevation = await fetch(elevationApiUrl, {
             method: 'POST',
-            headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
-            body: JSON.stringify({ locations: locationArray })
+            headers: { 'Accept': 'application/json', 'Content-Type': 'application/x-www-form-urlencoded' },
+            body: bodyString
         });
         const responseElevationdata = await responseElevation.json();
+        const elapsedelevation = (new Date().getTime() - startrequestelevation) / 1000;
+        console.log(`        Elapsed elevat request: ${elapsedelevation}`)
+
+        responseElevationdata.samples.sort((a: any, b: any) => {
+            return a.locationId - b.locationId;
+        });
+
 
         // add the elvation to the data and do simple checks to make sure the right elevation get's added
         for (let i = 0; i < webcamsdata.result.webcams.length; i++) {
-            webcamsdata.result.webcams[i].location.elevation = responseElevationdata.results[i].elevation
-            if (webcamsdata.result.webcams[i].location.latitude != responseElevationdata.results[i].latitude) {
+            webcamsdata.result.webcams[i].location.elevation = Math.round(Number(responseElevationdata.samples[i].value))
+            if (webcamsdata.result.webcams[i].location.latitude != responseElevationdata.samples[i].location.y) {
                 console.log("Error latitude ")
             }
-            if (webcamsdata.result.webcams[i].location.longitude != responseElevationdata.results[i].longitude) {
+            if (webcamsdata.result.webcams[i].location.longitude != responseElevationdata.samples[i].location.x) {
                 console.log("Error longitude ")
             }
         }
@@ -84,7 +96,7 @@ async function createWindyWebcamsGeoJson(title: string, ne_lat: number, ne_lng: 
                             title: webcamsdata.result.webcams[i].title,
                             city: webcamsdata.result.webcams[i].location.city,
                             country_code: webcamsdata.result.webcams[i].location.country_code,
-                            elevation: responseElevationdata.results[i].elevation,
+                            elevation: webcamsdata.result.webcams[i].location.elevation,
                             longitude: webcamsdata.result.webcams[i].location.longitude,
                             latitude: webcamsdata.result.webcams[i].location.latitude,
                         }
