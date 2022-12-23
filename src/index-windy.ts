@@ -69,6 +69,7 @@ async function createWindyWebcamsGeoJson(title: string, ne_lat: number, ne_lng: 
         const responseElevationdata = await responseElevation.json();
         const elapsedelevation = (new Date().getTime() - startrequestelevation) / 1000;
         console.log(`        Elapsed elevat request: ${elapsedelevation}`)
+        console.log(responseElevationdata)
 
         responseElevationdata.samples.sort((a: any, b: any) => {
             return a.locationId - b.locationId;
