@@ -29,7 +29,7 @@ async function createWindyWebcamsGeoJson(title: string, ne_lat: number, ne_lng: 
 
     // request the sliced webcam list with multi requests
     const maxcount = Math.ceil(totalWebcams / limit)
-    const webcamFeatures = []
+    const webcamFeatures = [] as any;
     for (let page = 1; page <= maxcount; page++) {
         const fullPath = `https://api.windy.com/api/webcams/v2/list/bbox=${ne_lat},${ne_lng},${sw_lat},${sw_lng}/limit=${limit},${offset}/?show=webcams:location`
         console.log(`${page} of ${maxcount} with ${fullPath}`)
@@ -90,17 +90,24 @@ async function createWindyWebcamsGeoJson(title: string, ne_lat: number, ne_lng: 
         for (let i = 0; i < webcamsdata.result.webcams.length; i++) {
             if (webcamsdata.result.webcams[i].location.elevation >= minelevation) {
                 try {
-                    webcamFeatures.push(
-                        {
-                            id: parseInt(webcamsdata.result.webcams[i].id),
-                            title: webcamsdata.result.webcams[i].title,
-                            city: webcamsdata.result.webcams[i].location.city,
-                            country_code: webcamsdata.result.webcams[i].location.country_code,
-                            elevation: webcamsdata.result.webcams[i].location.elevation,
-                            longitude: webcamsdata.result.webcams[i].location.longitude,
-                            latitude: webcamsdata.result.webcams[i].location.latitude,
-                        }
-                    )
+                    const id = parseInt(webcamsdata.result.webcams[i].id)
+                    const foundEntryWithId = webcamFeatures.some((feature: { id: number; }) => feature.id === id);
+                    if (!foundEntryWithId) {
+                        webcamFeatures.push(
+                            {
+                                id: id,
+                                title: webcamsdata.result.webcams[i].title,
+                                city: webcamsdata.result.webcams[i].location.city,
+                                country_code: webcamsdata.result.webcams[i].location.country_code,
+                                elevation: webcamsdata.result.webcams[i].location.elevation,
+                                longitude: webcamsdata.result.webcams[i].location.longitude,
+                                latitude: webcamsdata.result.webcams[i].location.latitude,
+                            }
+                        )
+                    }  
+                    else{
+                        console.log(`Double entry for: ${id}`)
+                    }                  
                 } catch (error) {
                     console.log(error)
                     console.log(webcamsdata.result.webcams[i])
@@ -114,7 +121,7 @@ async function createWindyWebcamsGeoJson(title: string, ne_lat: number, ne_lng: 
     console.log(`Total Webcams above ${minelevation} meters: ${webcamFeatures.length}`)
 
     // sort on ID
-    webcamFeatures.sort((a, b) => {
+    webcamFeatures.sort((a: { id: number; }, b: { id: number; }) => {
         return a.id - b.id;
     });
 
