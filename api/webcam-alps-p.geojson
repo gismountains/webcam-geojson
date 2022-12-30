@@ -328,24 +328,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1017401961,
-        "title": "Melano: Monte Generoso",
-        "city": "Melano",
-        "country_code": "CH",
-        "elevation": 1019
-      },
-      "geometry": {
-        "coordinates": [
-          8.998833,
-          45.913183,
-          1019
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1017402016,
         "title": "Poschiavo: Swizzera",
         "city": "Poschiavo",
@@ -70600,24 +70582,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1582044363,
-        "title": "Gemeinde Lech › West: Hotel Mohnenfluh",
-        "city": "Gemeinde Lech",
-        "country_code": "AT",
-        "elevation": 1718
-      },
-      "geometry": {
-        "coordinates": [
-          10.136459,
-          47.221419,
-          1718
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1582055006,
         "title": "Tignes: Tignes Ski Resort - Lac de Tignes",
         "city": "Tignes",
@@ -82552,24 +82516,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1610353491,
-        "title": "Issime › South",
-        "city": "Issime",
-        "country_code": "IT",
-        "elevation": 954
-      },
-      "geometry": {
-        "coordinates": [
-          7.854647,
-          45.686258,
-          954
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1610401837,
         "title": "Toblach - Dobbiaco: Romantik Hotel Santer",
         "city": "Toblach - Dobbiaco",
@@ -91113,6 +91059,24 @@
           8.544557,
           47.250913,
           906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1635348763,
+        "title": "Gorreto: Monte Alfeo",
+        "city": "Gorreto",
+        "country_code": "IT",
+        "elevation": 882
+      },
+      "geometry": {
+        "coordinates": [
+          9.262331,
+          44.588422,
+          882
         ],
         "type": "Point"
       }
