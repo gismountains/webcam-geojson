@@ -2398,24 +2398,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1146478726,
-        "title": "Wald: b&m Informatik GmbH - AR: Sicht auf die Kirche von - AR",
-        "city": "Wald",
-        "country_code": "CH",
-        "elevation": 964
-      },
-      "geometry": {
-        "coordinates": [
-          9.490825,
-          47.415761,
-          964
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1146478867,
         "title": "Seedorf: Hafenanlage Bolzbach",
         "city": "Seedorf",
@@ -4929,6 +4911,24 @@
           7.751198,
           45.016151,
           385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1200502752,
+        "title": "Villar Perosa › North-West",
+        "city": "Villar Perosa",
+        "country_code": "IT",
+        "elevation": 503
+      },
+      "geometry": {
+        "coordinates": [
+          7.245054,
+          44.922052,
+          503
         ],
         "type": "Point"
       }
@@ -7727,16 +7727,16 @@
       "type": "Feature",
       "properties": {
         "id": 1226659547,
-        "title": "Gemeinde Bartholomaberg: Bergbahnen Golm Rätikon",
-        "city": "Gemeinde Bartholomaberg",
+        "title": "Gemeinde Tschagguns: Bergbahnen Golm Rätikon",
+        "city": "Gemeinde Tschagguns",
         "country_code": "AT",
-        "elevation": 1203
+        "elevation": 2100
       },
       "geometry": {
         "coordinates": [
-          9.838257,
-          47.087891,
-          1203
+          9.83475,
+          47.061128,
+          2100
         ],
         "type": "Point"
       }
@@ -9609,6 +9609,24 @@
           12.234327,
           47.443558,
           783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1235591757,
+        "title": "Berg im Drautal: Hotel Glocknerhof",
+        "city": "Berg im Drautal",
+        "country_code": "AT",
+        "elevation": 654
+      },
+      "geometry": {
+        "coordinates": [
+          13.145571,
+          46.748624,
+          654
         ],
         "type": "Point"
       }
@@ -16474,24 +16492,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1289136671,
-        "title": "Stadt Hall in Tirol: Der Stiftsplatz von Hall in - und Blick Richtung Innsbruck",
-        "city": "Stadt Hall in Tirol",
-        "country_code": "AT",
-        "elevation": 575
-      },
-      "geometry": {
-        "coordinates": [
-          11.509885,
-          47.281391,
-          575
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1289425106,
         "title": "Cavedago: TN",
         "city": "Cavedago",
@@ -18418,24 +18418,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1292515116,
-        "title": "Chamoille: Bruson - Sommet de la Pasay",
-        "city": "Chamoille",
-        "country_code": "CH",
-        "elevation": 2159
-      },
-      "geometry": {
-        "coordinates": [
-          7.183685,
-          46.050327,
-          2159
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1292515117,
         "title": "Val de Bagnes: Verbier - 4 Vallées - La Croix de Coeur",
         "city": "Val de Bagnes",
@@ -19779,6 +19761,24 @@
           9.779135,
           47.506001,
           1022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1299163476,
+        "title": "Kurnbach: Gartenbahn",
+        "city": "Kurnbach",
+        "country_code": "DE",
+        "elevation": 559
+      },
+      "geometry": {
+        "coordinates": [
+          9.678609,
+          47.992586,
+          559
         ],
         "type": "Point"
       }
@@ -23314,6 +23314,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1334044622,
+        "title": "Gradisce pri Materiji: Gradišče - Brkini 4",
+        "city": "Gradisce pri Materiji",
+        "country_code": "SI",
+        "elevation": 590
+      },
+      "geometry": {
+        "coordinates": [
+          14.062436,
+          45.550842,
+          590
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1334306426,
         "title": "Raron: Air Zermatt - Station - Richtung Sion",
         "city": "Raron",
@@ -23505,42 +23523,6 @@
           14.964838,
           47.379225,
           623
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1335461455,
-        "title": "Gemeinde Ober-Grafendorf: Flugfeld Völtendorf",
-        "city": "Gemeinde Ober-Grafendorf",
-        "country_code": "AT",
-        "elevation": 326
-      },
-      "geometry": {
-        "coordinates": [
-          15.589685,
-          48.160615,
-          326
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1335462515,
-        "title": "Unterfladnitz: Flugplatz Weiz-Unterfladnitz",
-        "city": "Unterfladnitz",
-        "country_code": "AT",
-        "elevation": 396
-      },
-      "geometry": {
-        "coordinates": [
-          15.664358,
-          47.170299,
-          396
         ],
         "type": "Point"
       }
@@ -24196,24 +24178,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1345881003,
-        "title": "Gemeinde Ischgl: Webcam Ischgl",
-        "city": "Gemeinde Ischgl",
-        "country_code": "AT",
-        "elevation": 2150
-      },
-      "geometry": {
-        "coordinates": [
-          10.278705,
-          46.991489,
-          2150
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1345888816,
         "title": "Immenstadt im Allgau: Allgau 2",
         "city": "Immenstadt im Allgau",
@@ -24657,42 +24621,6 @@
           7.656186,
           46.740693,
           601
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1348420180,
-        "title": "Gemeinde Gaschurn: Talabfahrt Gaschurn",
-        "city": "Gemeinde Gaschurn",
-        "country_code": "AT",
-        "elevation": 967
-      },
-      "geometry": {
-        "coordinates": [
-          10.026956,
-          46.98542,
-          967
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1348420277,
-        "title": "Gemeinde Gaschurn: Zamangspitze",
-        "city": "Gemeinde Gaschurn",
-        "country_code": "AT",
-        "elevation": 967
-      },
-      "geometry": {
-        "coordinates": [
-          10.027031,
-          46.985405,
-          967
         ],
         "type": "Point"
       }
@@ -29114,13 +29042,13 @@
         "title": "Oberegg › South: Richtung Sud",
         "city": "Oberegg",
         "country_code": "CH",
-        "elevation": 873
+        "elevation": 1099
       },
       "geometry": {
         "coordinates": [
-          9.551345,
-          47.424015,
-          873
+          9.539133,
+          47.410717,
+          1099
         ],
         "type": "Point"
       }
@@ -29219,16 +29147,16 @@
       "type": "Feature",
       "properties": {
         "id": 1371678007,
-        "title": "Elm: Village 2",
-        "city": "Elm",
+        "title": "Glarus Sud: Village 2",
+        "city": "Glarus Sud",
         "country_code": "CH",
-        "elevation": 978
+        "elevation": 1011
       },
       "geometry": {
         "coordinates": [
-          9.172416,
-          46.919017,
-          978
+          9.181588,
+          46.919391,
+          1011
         ],
         "type": "Point"
       }
@@ -35576,13 +35504,13 @@
         "title": "Gemeinde Leutasch: Meilerhütte - Wetterstein - Blick nach Nordwesten zur Zugspitze",
         "city": "Gemeinde Leutasch",
         "country_code": "AT",
-        "elevation": 2373
+        "elevation": 2372
       },
       "geometry": {
         "coordinates": [
           11.128825,
           47.41246,
-          2373
+          2372
         ],
         "type": "Point"
       }
@@ -37131,6 +37059,24 @@
           10.771452,
           44.230248,
           1014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1423151833,
+        "title": "Sestola",
+        "city": "Sestola",
+        "country_code": "IT",
+        "elevation": 1013
+      },
+      "geometry": {
+        "coordinates": [
+          10.771409,
+          44.229978,
+          1013
         ],
         "type": "Point"
       }
@@ -50836,24 +50782,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1487328791,
-        "title": "Habere-Poche: Le Tremplin Hirmentaz",
-        "city": "Habere-Poche",
-        "country_code": "FR",
-        "elevation": 1606
-      },
-      "geometry": {
-        "coordinates": [
-          6.494996,
-          46.230083,
-          1606
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1487517872,
         "title": "Collonges-sous-Saleve: Panoramique du Jura aux Alpes, depuis le Salève",
         "city": "Collonges-sous-Saleve",
@@ -52874,13 +52802,13 @@
         "title": "Gemeinde Leutasch: Meilerhütte - Wetterstein - Blick nach Nordosten",
         "city": "Gemeinde Leutasch",
         "country_code": "AT",
-        "elevation": 2373
+        "elevation": 2372
       },
       "geometry": {
         "coordinates": [
           11.128825,
           47.41246,
-          2373
+          2372
         ],
         "type": "Point"
       }
@@ -55984,24 +55912,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1517598539,
-        "title": "Traunstein › South",
-        "city": "Traunstein",
-        "country_code": "DE",
-        "elevation": 604
-      },
-      "geometry": {
-        "coordinates": [
-          12.655123,
-          47.872855,
-          604
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1517652623,
         "title": "Vela Ucka: Restaurant Pansion Učka - Učka - Ćićarija",
         "city": "Vela Ucka",
@@ -56553,6 +56463,24 @@
           11.006485,
           45.890312,
           318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1520179617,
+        "title": "Viola › South-East: Saint Gree - Stazione sciistica Saint Gree",
+        "city": "Viola",
+        "country_code": "IT",
+        "elevation": 1036
+      },
+      "geometry": {
+        "coordinates": [
+          7.954974,
+          44.281628,
+          1036
         ],
         "type": "Point"
       }
@@ -57410,13 +57338,13 @@
         "title": "Malcesine: Monte Baldo",
         "city": "Malcesine",
         "country_code": "IT",
-        "elevation": 1812
+        "elevation": 1766
       },
       "geometry": {
         "coordinates": [
-          10.864283,
-          45.74711,
-          1812
+          10.86502,
+          45.772151,
+          1766
         ],
         "type": "Point"
       }
@@ -60754,24 +60682,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1542692875,
-        "title": "Welschnofen - Nova Levante: Eggental - Tischenwarte",
-        "city": "Welschnofen - Nova Levante",
-        "country_code": "IT",
-        "elevation": 1509
-      },
-      "geometry": {
-        "coordinates": [
-          11.381941,
-          46.467705,
-          1509
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1542692877,
         "title": "Welschnofen - Nova Levante: Eggental - Carezza - Frin",
         "city": "Welschnofen - Nova Levante",
@@ -63620,13 +63530,13 @@
         "title": "Sattel: Bärenfang",
         "city": "Sattel",
         "country_code": "CH",
-        "elevation": 1154
+        "elevation": 1390
       },
       "geometry": {
         "coordinates": [
-          8.65045,
-          47.06914,
-          1154
+          8.664885,
+          47.066041,
+          1390
         ],
         "type": "Point"
       }
@@ -67540,6 +67450,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1573903984,
+        "title": "Le Mas: Col de Bleine - Montagne de Thorenc",
+        "city": "Le Mas",
+        "country_code": "FR",
+        "elevation": 1124
+      },
+      "geometry": {
+        "coordinates": [
+          6.813457,
+          43.830721,
+          1124
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1573925311,
         "title": "Baselicaduce › South: Baselica",
         "city": "Baselicaduce",
@@ -68397,24 +68325,6 @@
           14.924,
           45.98,
           513
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1575922082,
-        "title": "Smartno pri Litiji › South-East: Dolnji Vrh - Trebnje- Novo mesto",
-        "city": "Smartno pri Litiji",
-        "country_code": "SI",
-        "elevation": 501
-      },
-      "geometry": {
-        "coordinates": [
-          14.923915,
-          45.979528,
-          501
         ],
         "type": "Point"
       }
@@ -71194,6 +71104,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1583227942,
+        "title": "Tujetsch › East: Milez",
+        "city": "Tujetsch",
+        "country_code": "CH",
+        "elevation": 1852
+      },
+      "geometry": {
+        "coordinates": [
+          8.720504,
+          46.666579,
+          1852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1583228052,
         "title": "Tujetsch: Milez",
         "city": "Tujetsch",
@@ -73311,24 +73239,6 @@
           14.278646,
           45.32394,
           313
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1591197529,
-        "title": "Evian-les-Bains",
-        "city": "Evian-les-Bains",
-        "country_code": "FR",
-        "elevation": 372
-      },
-      "geometry": {
-        "coordinates": [
-          6.605386,
-          46.402623,
-          372
         ],
         "type": "Point"
       }
@@ -77818,6 +77728,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1599064329,
+        "title": "Gemeinde St. Leonhard im Pitztal › South",
+        "city": "Gemeinde St. Leonhard im Pitztal",
+        "country_code": "AT",
+        "elevation": 1563
+      },
+      "geometry": {
+        "coordinates": [
+          10.86714,
+          46.996529,
+          1563
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1599200907,
         "title": "Logatec › West",
         "city": "Logatec",
@@ -78160,17 +78088,17 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1600774690,
-        "title": "Cusino › North-West: Cavargna",
-        "city": "Cusino",
-        "country_code": "IT",
-        "elevation": 790
+        "id": 1600427850,
+        "title": "Allensbach: Golf-Club Konstanz - Kargegg",
+        "city": "Allensbach",
+        "country_code": "DE",
+        "elevation": 517
       },
       "geometry": {
         "coordinates": [
-          9.152122,
-          46.073432,
-          790
+          9.092187,
+          47.763676,
+          517
         ],
         "type": "Point"
       }
@@ -80511,24 +80439,6 @@
           11.526762,
           47.663211,
           1501
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1607160754,
-        "title": "Epagny Metz-Tessy: Annecy – Haute-Savoie – Mont Blanc Airport",
-        "city": "Epagny Metz-Tessy",
-        "country_code": "FR",
-        "elevation": 458
-      },
-      "geometry": {
-        "coordinates": [
-          6.10291,
-          45.928868,
-          458
         ],
         "type": "Point"
       }
@@ -83200,6 +83110,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1612105058,
+        "title": "Alzate Brianza › North: Aeroclub Volovelistico Lariano",
+        "city": "Alzate Brianza",
+        "country_code": "IT",
+        "elevation": 386
+      },
+      "geometry": {
+        "coordinates": [
+          9.16405,
+          45.771813,
+          386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1612108595,
         "title": "Kussnacht › West: Holderen",
         "city": "Kussnacht",
@@ -84687,6 +84615,24 @@
           7.920536,
           47.876255,
           1159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1615761975,
+        "title": "Gemeinde Mittelberg › South-East: Pension Kleinwalsertal",
+        "city": "Gemeinde Mittelberg",
+        "country_code": "AT",
+        "elevation": 1297
+      },
+      "geometry": {
+        "coordinates": [
+          10.116123,
+          47.312047,
+          1297
         ],
         "type": "Point"
       }
@@ -87016,24 +86962,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1622154249,
-        "title": "Muhlematt › South",
-        "city": "Muhlematt",
-        "country_code": "CH",
-        "elevation": 1742
-      },
-      "geometry": {
-        "coordinates": [
-          8.44306,
-          46.92877,
-          1742
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1622176360,
         "title": "Gualdo Tadino › South-West",
         "city": "Gualdo Tadino",
@@ -87243,6 +87171,24 @@
           13.175111,
           47.626167,
           483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1622662821,
+        "title": "Pomaretto",
+        "city": "Pomaretto",
+        "country_code": "IT",
+        "elevation": 1260
+      },
+      "geometry": {
+        "coordinates": [
+          7.170522,
+          44.963195,
+          1260
         ],
         "type": "Point"
       }
@@ -93428,13 +93374,13 @@
         "title": "Le Haut-Breda",
         "city": "Le Haut-Breda",
         "country_code": "FR",
-        "elevation": 1447
+        "elevation": 2228
       },
       "geometry": {
         "coordinates": [
-          6.05559,
-          45.272325,
-          1447
+          6.032487,
+          45.253412,
+          2228
         ],
         "type": "Point"
       }
@@ -94562,13 +94508,13 @@
         "title": "Selva di Progno",
         "city": "Selva di Progno",
         "country_code": "IT",
-        "elevation": 780
+        "elevation": 1155
       },
       "geometry": {
         "coordinates": [
-          11.123262,
-          45.6542,
-          780
+          11.120349,
+          45.688667,
+          1155
         ],
         "type": "Point"
       }
@@ -100462,6 +100408,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1657528871,
+        "title": "Waldkirch › South",
+        "city": "Waldkirch",
+        "country_code": "DE",
+        "elevation": 1200
+      },
+      "geometry": {
+        "coordinates": [
+          8.015476,
+          48.065688,
+          1200
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1657528959,
         "title": "Waldkirch › North",
         "city": "Waldkirch",
@@ -101319,42 +101283,6 @@
           13.545531,
           46.328083,
           427
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1660909366,
-        "title": "Sankt Ruprecht an der Raab",
-        "city": "Sankt Ruprecht an der Raab",
-        "country_code": "AT",
-        "elevation": 396
-      },
-      "geometry": {
-        "coordinates": [
-          15.664208,
-          47.170248,
-          396
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1660920337,
-        "title": "Sankt Ruprecht an der Raab",
-        "city": "Sankt Ruprecht an der Raab",
-        "country_code": "AT",
-        "elevation": 396
-      },
-      "geometry": {
-        "coordinates": [
-          15.663693,
-          47.170541,
-          396
         ],
         "type": "Point"
       }
@@ -106456,6 +106384,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1669721779,
+        "title": "Pinasca",
+        "city": "Pinasca",
+        "country_code": "IT",
+        "elevation": 1584
+      },
+      "geometry": {
+        "coordinates": [
+          7.236899,
+          44.976457,
+          1584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1669726559,
         "title": "Neumarkt am Wallersee: Neumarkt a. W. - Matzing",
         "city": "Neumarkt am Wallersee",
@@ -108987,6 +108933,24 @@
           7.17637,
           45.69352,
           868
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1672486513,
+        "title": "Chialamberto › South-East",
+        "city": "Chialamberto",
+        "country_code": "IT",
+        "elevation": 1661
+      },
+      "geometry": {
+        "coordinates": [
+          7.355588,
+          45.376876,
+          1661
         ],
         "type": "Point"
       }
