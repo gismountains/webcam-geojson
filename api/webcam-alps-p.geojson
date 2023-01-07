@@ -1624,24 +1624,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1113821365,
-        "title": "Brig-Glis: Stockalper Palace",
-        "city": "Brig-Glis",
-        "country_code": "CH",
-        "elevation": 704
-      },
-      "geometry": {
-        "coordinates": [
-          7.991867,
-          46.314331,
-          704
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1115031497,
         "title": "Matt: Weissenberge 2",
         "city": "Matt",
@@ -5091,24 +5073,6 @@
           7.194612,
           45.819743,
           1371
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1201550184,
-        "title": "Saint-Vincent › West: Aosta",
-        "city": "Saint-Vincent",
-        "country_code": "IT",
-        "elevation": 578
-      },
-      "geometry": {
-        "coordinates": [
-          7.645626,
-          45.751834,
-          578
         ],
         "type": "Point"
       }
@@ -13972,24 +13936,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1262881408,
-        "title": "Kreuth: Blick auf den Tegernsee",
-        "city": "Kreuth",
-        "country_code": "DE",
-        "elevation": 901
-      },
-      "geometry": {
-        "coordinates": [
-          11.73666,
-          47.687695,
-          901
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1262965160,
         "title": "Miralago: Lago di Poschiavo - Piz Varuna",
         "city": "Miralago",
@@ -16557,6 +16503,24 @@
           5.267993,
           45.191304,
           442
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1290172620,
+        "title": "Luttach - Lutago: Speikboden",
+        "city": "Luttach - Lutago",
+        "country_code": "IT",
+        "elevation": 1706
+      },
+      "geometry": {
+        "coordinates": [
+          11.914158,
+          46.930807,
+          1706
         ],
         "type": "Point"
       }
@@ -22936,6 +22900,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1329921191,
+        "title": "Apremont: Lac Genin",
+        "city": "Apremont",
+        "country_code": "FR",
+        "elevation": 840
+      },
+      "geometry": {
+        "coordinates": [
+          5.695494,
+          46.220113,
+          840
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1330087594,
         "title": "Walchwil: Walchwilerberg",
         "city": "Walchwil",
@@ -24916,6 +24898,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1349458961,
+        "title": "Wagrain: Giggijoch",
+        "city": "Wagrain",
+        "country_code": "AT",
+        "elevation": 1352
+      },
+      "geometry": {
+        "coordinates": [
+          13.333333,
+          47.333333,
+          1352
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1349462475,
         "title": "Sankt Magdalen: Sehr geehrter Kunde !Villach-Draubr�cke",
         "city": "Sankt Magdalen",
@@ -25377,24 +25377,6 @@
           7.212675,
           47.137693,
           881
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1349968824,
-        "title": "Friesach: Sehr geehrter Kunde",
-        "city": "Friesach",
-        "country_code": "AT",
-        "elevation": 1079
-      },
-      "geometry": {
-        "coordinates": [
-          14.464161,
-          46.946156,
-          1079
         ],
         "type": "Point"
       }
@@ -27267,6 +27249,24 @@
           7.77516,
           46.710638,
           1936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1359544877,
+        "title": "Dimaro Folgarida: Folgarida - Hotel Negritella",
+        "city": "Dimaro Folgarida",
+        "country_code": "IT",
+        "elevation": 1343
+      },
+      "geometry": {
+        "coordinates": [
+          10.867367,
+          46.300279,
+          1343
         ],
         "type": "Point"
       }
@@ -31497,6 +31497,24 @@
           6.8465,
           46.84876,
           448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1383597611,
+        "title": "Wertach",
+        "city": "Wertach",
+        "country_code": "DE",
+        "elevation": 906
+      },
+      "geometry": {
+        "coordinates": [
+          10.40966,
+          47.603,
+          906
         ],
         "type": "Point"
       }
@@ -40198,24 +40216,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1449570856,
-        "title": "Lusiana Conco: Asiago",
-        "city": "Lusiana Conco",
-        "country_code": "IT",
-        "elevation": 1073
-      },
-      "geometry": {
-        "coordinates": [
-          11.621546,
-          45.821349,
-          1073
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1449765022,
         "title": "Sant'Angelo Le Fratte: Falcade - Veneto",
         "city": "Sant'Angelo Le Fratte",
@@ -41433,24 +41433,6 @@
           6.998278,
           47.253655,
           997
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1453114401,
-        "title": "Oberwangen: Skilift Oberwangen",
-        "city": "Oberwangen",
-        "country_code": "CH",
-        "elevation": 624
-      },
-      "geometry": {
-        "coordinates": [
-          8.987595,
-          47.422513,
-          624
         ],
         "type": "Point"
       }
@@ -44104,24 +44086,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1462286145,
-        "title": "Blaichach: Mittagbahn - Mittag Ski Center",
-        "city": "Blaichach",
-        "country_code": "DE",
-        "elevation": 1416
-      },
-      "geometry": {
-        "coordinates": [
-          10.217543,
-          47.537024,
-          1416
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1462286155,
         "title": "Blaichach: Mittaggipfel - Mittag Ski Center",
         "city": "Blaichach",
@@ -44863,24 +44827,6 @@
         "id": 1462286995,
         "title": "Gemeinde Solden: Rettenbach - Sölden - Ötztal Arena",
         "city": "Gemeinde Solden",
-        "country_code": "AT",
-        "elevation": 3222
-      },
-      "geometry": {
-        "coordinates": [
-          10.926075,
-          46.92483,
-          3222
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1462287004,
-        "title": "Gemeinde Seitenstetten: Tiefenbach - Sölden - Ötztal Arena",
-        "city": "Gemeinde Seitenstetten",
         "country_code": "AT",
         "elevation": 3222
       },
@@ -48694,24 +48640,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1480969138,
-        "title": "Valprato Soana: Piamprato - Piedmont - Sciovie di Piamprato",
-        "city": "Valprato Soana",
-        "country_code": "IT",
-        "elevation": 1892
-      },
-      "geometry": {
-        "coordinates": [
-          7.570645,
-          45.565627,
-          1892
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1481201818,
         "title": "Piesendorf › South-West: Volksschule Piesendorf - Piesendorf Bundesstraße - Familieberg Maiskogel",
         "city": "Piesendorf",
@@ -49425,60 +49353,6 @@
           13.458397,
           46.759163,
           2129
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1485079214,
-        "title": "Evolene › East: Grand Hotel And Kurhaus - Aiguille de la Tza, Douves Blanches, Maya",
-        "city": "Evolene",
-        "country_code": "CH",
-        "elevation": 2069
-      },
-      "geometry": {
-        "coordinates": [
-          7.479297,
-          46.023996,
-          2069
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1485079572,
-        "title": "Evolene › South: Arolla: Hôtel Kurhaus",
-        "city": "Evolene",
-        "country_code": "CH",
-        "elevation": 2069
-      },
-      "geometry": {
-        "coordinates": [
-          7.479286,
-          46.024383,
-          2069
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1485080058,
-        "title": "Evolene › South: Grand Hotel And Kurhaus - Arolla, piste des Fontanesses",
-        "city": "Evolene",
-        "country_code": "CH",
-        "elevation": 2071
-      },
-      "geometry": {
-        "coordinates": [
-          7.479082,
-          46.023907,
-          2071
         ],
         "type": "Point"
       }
@@ -51412,24 +51286,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1493458755,
-        "title": "La Javie",
-        "city": "La Javie",
-        "country_code": "FR",
-        "elevation": 980
-      },
-      "geometry": {
-        "coordinates": [
-          6.35,
-          44.16667,
-          980
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1493543778,
         "title": "Ruhpolding › South: Großvenediger",
         "city": "Ruhpolding",
@@ -52179,6 +52035,24 @@
           11.552966,
           48.174353,
           515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1500619741,
+        "title": "Gemeinde Tschagguns: Hüttenkopfbahn Bergstation - Aussergolmbahn Bergstation - Bewegungsberg Golm - Berghof Golm - Familie Roman Tagwercher - Tschaggunser Mittagspitze - Tschagguns - Zimba - Sulzfluh - Schruns",
+        "city": "Gemeinde Tschagguns",
+        "country_code": "AT",
+        "elevation": 2027
+      },
+      "geometry": {
+        "coordinates": [
+          9.838508,
+          47.064789,
+          2027
         ],
         "type": "Point"
       }
@@ -56290,6 +56164,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1519722824,
+        "title": "Dun-sur-Auron: Auron départ Las Donnas",
+        "city": "Dun-sur-Auron",
+        "country_code": "FR",
+        "elevation": 1654
+      },
+      "geometry": {
+        "coordinates": [
+          6.924907,
+          44.220339,
+          1654
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1519722891,
         "title": "Dun-sur-Auron: Auron village",
         "city": "Dun-sur-Auron",
@@ -60394,24 +60286,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1541867076,
-        "title": "Evolene: Cugy - Vaud",
-        "city": "Evolene",
-        "country_code": "CH",
-        "elevation": 2070
-      },
-      "geometry": {
-        "coordinates": [
-          7.479193,
-          46.023979,
-          2070
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1541926630,
         "title": "Krimml: Krimmler Tauernhaus",
         "city": "Krimml",
@@ -61906,24 +61780,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1545299287,
-        "title": "Feldkirchen bei Graz: Graz Airport",
-        "city": "Feldkirchen bei Graz",
-        "country_code": "AT",
-        "elevation": 336
-      },
-      "geometry": {
-        "coordinates": [
-          15.43963,
-          46.99107,
-          336
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1545316528,
         "title": "Ornica: Rifugio C. Benigni",
         "city": "Ornica",
@@ -62259,24 +62115,6 @@
           9.88331,
           45.863983,
           449
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1546281122,
-        "title": "Andalo",
-        "city": "Andalo",
-        "country_code": "IT",
-        "elevation": 1449
-      },
-      "geometry": {
-        "coordinates": [
-          11.016268,
-          46.153333,
-          1449
         ],
         "type": "Point"
       }
@@ -63087,6 +62925,24 @@
           7.343157,
           44.513356,
           1375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1548407174,
+        "title": "Viola: Saint Gree - Tortarolo",
+        "city": "Viola",
+        "country_code": "IT",
+        "elevation": 988
+      },
+      "geometry": {
+        "coordinates": [
+          7.959412,
+          44.279233,
+          988
         ],
         "type": "Point"
       }
@@ -64444,6 +64300,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1553779231,
+        "title": "Montvalezan: Les Eucherts",
+        "city": "Montvalezan",
+        "country_code": "FR",
+        "elevation": 1841
+      },
+      "geometry": {
+        "coordinates": [
+          6.864657,
+          45.62677,
+          1841
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1553779955,
         "title": "La Thuile: Mont Valezan",
         "city": "La Thuile",
@@ -65355,6 +65229,24 @@
           6.817224,
           46.470607,
           394
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1560891522,
+        "title": "Taggia › North-West: Faudo Mountain - Lecchiore - Bellissimi - Dolcedo",
+        "city": "Taggia",
+        "country_code": "IT",
+        "elevation": 1145
+      },
+      "geometry": {
+        "coordinates": [
+          7.87528,
+          43.90806,
+          1145
         ],
         "type": "Point"
       }
@@ -69556,6 +69448,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1580471504,
+        "title": "La Tour-en-Maurienne › North-East: Montpascal",
+        "city": "La Tour-en-Maurienne",
+        "country_code": "FR",
+        "elevation": 1410
+      },
+      "geometry": {
+        "coordinates": [
+          6.362289,
+          45.338135,
+          1410
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1580556607,
         "title": "Valgelon-La Rochette › South-East: Le Collet d'Allevard",
         "city": "Valgelon-La Rochette",
@@ -70485,6 +70395,24 @@
           6.31178,
           46.509528,
           721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1582222026,
+        "title": "Borso del Grappa › East",
+        "city": "Borso del Grappa",
+        "country_code": "IT",
+        "elevation": 863
+      },
+      "geometry": {
+        "coordinates": [
+          11.770825,
+          45.824553,
+          863
         ],
         "type": "Point"
       }
@@ -71986,24 +71914,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1585038382,
-        "title": "Feldberg › South: Grafenmatt",
-        "city": "Feldberg",
-        "country_code": "DE",
-        "elevation": 1231
-      },
-      "geometry": {
-        "coordinates": [
-          8.029576,
-          47.85597,
-          1231
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1585038635,
         "title": "St. Blasien › South-East",
         "city": "St. Blasien",
@@ -72375,6 +72285,24 @@
           8.151941,
           48.131142,
           947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1587139764,
+        "title": "Mezzenile › North-East",
+        "city": "Mezzenile",
+        "country_code": "IT",
+        "elevation": 653
+      },
+      "geometry": {
+        "coordinates": [
+          7.394778,
+          45.29246,
+          653
         ],
         "type": "Point"
       }
@@ -72843,6 +72771,24 @@
           8.151936,
           48.131142,
           947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1589022189,
+        "title": "Elzach › South: Startplatz Gschasi",
+        "city": "Elzach",
+        "country_code": "DE",
+        "elevation": 937
+      },
+      "geometry": {
+        "coordinates": [
+          8.128526,
+          48.186683,
+          937
         ],
         "type": "Point"
       }
@@ -76490,13 +76436,13 @@
         "title": "Salzburg › South-West",
         "city": "Salzburg",
         "country_code": "AT",
-        "elevation": 429
+        "elevation": 430
       },
       "geometry": {
         "coordinates": [
           13.043541,
           47.786713,
-          429
+          430
         ],
         "type": "Point"
       }
@@ -82714,24 +82660,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1611290619,
-        "title": "Comelico Superiore",
-        "city": "Comelico Superiore",
-        "country_code": "IT",
-        "elevation": 1216
-      },
-      "geometry": {
-        "coordinates": [
-          12.480594,
-          46.609588,
-          1216
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1611388949,
         "title": "Sorens",
         "city": "Sorens",
@@ -84273,6 +84201,24 @@
           8.490801,
           47.389525,
           401
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1615056199,
+        "title": "Seeg › South",
+        "city": "Seeg",
+        "country_code": "DE",
+        "elevation": 848
+      },
+      "geometry": {
+        "coordinates": [
+          10.576905,
+          47.651195,
+          848
         ],
         "type": "Point"
       }
@@ -86091,24 +86037,6 @@
           11.957105,
           46.227314,
           1249
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1619733023,
-        "title": "Launsdorf: Burg Hochosterwitz",
-        "city": "Launsdorf",
-        "country_code": "AT",
-        "elevation": 684
-      },
-      "geometry": {
-        "coordinates": [
-          14.451179,
-          46.755726,
-          684
         ],
         "type": "Point"
       }
@@ -93802,24 +93730,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1641538897,
-        "title": "Todtnau",
-        "city": "Todtnau",
-        "country_code": "DE",
-        "elevation": 1057
-      },
-      "geometry": {
-        "coordinates": [
-          7.918822,
-          47.867967,
-          1057
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1641553841,
         "title": "Molazzana › East: Rifugio Rossi",
         "city": "Molazzana",
@@ -100462,6 +100372,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1658087245,
+        "title": "Avio › West",
+        "city": "Avio",
+        "country_code": "IT",
+        "elevation": 1435
+      },
+      "geometry": {
+        "coordinates": [
+          10.880178,
+          45.759407,
+          1435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1658147456,
         "title": "Ponte di Legno › South-East",
         "city": "Ponte di Legno",
@@ -102208,24 +102136,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1663581607,
-        "title": "Pivka › West: Petelinjsko Jezero",
-        "city": "Pivka",
-        "country_code": "SI",
-        "elevation": 607
-      },
-      "geometry": {
-        "coordinates": [
-          14.234872,
-          45.708253,
-          607
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 1663583041,
         "title": "Skofja Loka › South: Skofja Loka Castle & Museum",
         "city": "Skofja Loka",
@@ -103479,6 +103389,24 @@
           14.324178,
           47.905139,
           1261
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1667168568,
+        "title": "Locana › South-East",
+        "city": "Locana",
+        "country_code": "IT",
+        "elevation": 778
+      },
+      "geometry": {
+        "coordinates": [
+          7.456168,
+          45.421849,
+          778
         ],
         "type": "Point"
       }
@@ -108861,6 +108789,168 @@
           6.847228,
           46.848593,
           454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1673000451,
+        "title": "La Salle: A5 km. 128,5 CHABODEY N 601",
+        "city": "La Salle",
+        "country_code": "IT",
+        "elevation": 951
+      },
+      "geometry": {
+        "coordinates": [
+          7.07568,
+          45.73837,
+          951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1673000897,
+        "title": "Courmayeur: A5 km. 142,7 DOLONNE S 920",
+        "city": "Courmayeur",
+        "country_code": "IT",
+        "elevation": 1189
+      },
+      "geometry": {
+        "coordinates": [
+          6.97115,
+          45.78242,
+          1189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1673001677,
+        "title": "Breccia: A09 km. 34,0 Como Centro itinere nord",
+        "city": "Breccia",
+        "country_code": "IT",
+        "elevation": 315
+      },
+      "geometry": {
+        "coordinates": [
+          9.05155,
+          45.78385,
+          315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1673002599,
+        "title": "Chiusaforte: A23 km. 77,0 - itin. nord",
+        "city": "Chiusaforte",
+        "country_code": "IT",
+        "elevation": 380
+      },
+      "geometry": {
+        "coordinates": [
+          13.28562,
+          46.4012,
+          380
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1673002691,
+        "title": "Gressan: A5 km. 110,9 LES CRETES N 001",
+        "city": "Gressan",
+        "country_code": "IT",
+        "elevation": 614
+      },
+      "geometry": {
+        "coordinates": [
+          7.28533,
+          45.7214,
+          614
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1673003878,
+        "title": "Morgex: A5 km. 136,3 P.S.DIDIER S 859",
+        "city": "Morgex",
+        "country_code": "IT",
+        "elevation": 1664
+      },
+      "geometry": {
+        "coordinates": [
+          7.00269,
+          45.77253,
+          1664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1673004392,
+        "title": "Barberino di Mugello: VAR km. 30,1 PMV Firenzuola itinere Nord",
+        "city": "Barberino di Mugello",
+        "country_code": "IT",
+        "elevation": 468
+      },
+      "geometry": {
+        "coordinates": [
+          11.2398,
+          44.04834,
+          468
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1673004595,
+        "title": "Champleval Dessous: A5 km. 113,1 SV. AOSTA W 000",
+        "city": "Champleval Dessous",
+        "country_code": "IT",
+        "elevation": 823
+      },
+      "geometry": {
+        "coordinates": [
+          7.22562,
+          45.69897,
+          823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1673005242,
+        "title": "Courmayeur: A5 km. 143,1 BRENVA N 1001",
+        "city": "Courmayeur",
+        "country_code": "IT",
+        "elevation": 1193
+      },
+      "geometry": {
+        "coordinates": [
+          6.97048,
+          45.7833,
+          1193
         ],
         "type": "Point"
       }
